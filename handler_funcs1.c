@@ -21,7 +21,7 @@ void pint_handler(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * pop_handler - handles the pop instruction
+ * pop_handler - Handles the pop instruction
  * @stack: double pointer to the stack to push to
  * @line_number: number of the line in the file
  */
