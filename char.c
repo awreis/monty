@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "lists.h
+#include "lists.h"
 
 /**
  * pchar_handler - handles the pchar instruction
