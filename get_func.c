@@ -1,7 +1,7 @@
 #include "monty.h"
 #include "lists.h"
 
-/*
+/**
  * get_func - selects the right function
  * @parsed: line from the bytecode file passed to main
  *
