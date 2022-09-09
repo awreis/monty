@@ -1,7 +1,7 @@
 #include "monty.h"
 #include "lists.h"
 
-data_t data == DATA_INIT;
+data_t data = DATA_INIT;
 
 /**
  * monty - helper function for main function
